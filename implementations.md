@@ -21,3 +21,20 @@ We list open source implementations of TUF in several languages, along with link
 ## php-tuf
 
 * [source code](https://github.com/php-tuf/php-tuf)
+
+## tuf-js
+
+* [source code](https://github.com/theupdateframework/tuf-js)
+
+## Variants of TUF
+
+These implementations implement a variation of the TUF specification
+
+### Aktualizer
+
+* [source code](https://github.com/uptane/aktualizr)
+* An implementation of the TUF variant [Uptane](https://uptane.github.io/)
+
+### The Archive Framework (TAF)
+
+* [source code](https://github.com/openlawlibrary/taf)
