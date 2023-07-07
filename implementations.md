@@ -26,6 +26,10 @@ We list open source implementations of TUF in several languages, along with link
 
 * [source code](https://github.com/theupdateframework/tuf-js)
 
+## Notary
+
+* [source code](https://github.com/notaryproject/notary)
+
 ## Variants of TUF
 
 These implementations implement a variation of the TUF specification
