@@ -10,6 +10,17 @@
   (theupdateframework.io) and artwork repositories.
 * Subprojects: are closely related, but semi-independent, projects such as
   implementations of the TUF specification (notary, go-tuf, tuf, etc).
+* Affiliated subprojects: these are related projects which have some ties to TUF
+  and which are granted all of the benefit of subproject status.  Any mention of
+  subproject in this document is meant to apply to affiliated subprojects as well
+  unless otherwise noted.  This distinction is granted by a majority of the TUF
+  steering committee and is intended to be used for projects which cannot or do
+  not wish to be official subprojects of TUF under the CNCF.
+* Experimental subprojects: The experimental subproject status may be given to a
+  project which would benefit the TUF ecosystem, but which is not of sufficient
+  maturity to become a normal subproject.  An experimental subproject and its
+  members, maintainers, etc. are not given the normal rights of a subproject
+  unless expressly stated.
 
 ## Contributor Ladder
 
@@ -24,12 +35,14 @@
 * Subproject Maintainer: a maintainer can also review and merge pull requests.
 * TAP Editor: maintainers of the specification and TAPs.
 * Consensus Builder: the project's founder and consensus builder, is able to
-  veto any issues put to the Steering Committee vote.
+  veto any issues put to the Steering Committee vote.  If the consensus builder
+  leaves the project permanently, the steering committee elects another consensus
+  builder.
 
 Contributors who have not actively contributed to the project, through PRs and
 Issues, or communicated on project forums (GitHub, Slack, Mailing list) for
-longer than 12 months may be involuntarily moved down the contributor ladder,
-or asked to move to an emeritus status.
+longer than 2 months may be involuntarily moved down the contributor ladder,
+or moved to an emeritus status.
 
 ## Individual Subproject Governance
 
@@ -54,9 +67,21 @@ representative to the Steering Committee.
 ## Steering Committee
 The overall TUF umbrella project is governed by a Steering Committee, which is
 selected as follows:
-* One Maintainer representative from each member subproject
-* All of the TAP Editors
+* Two of the TAP Editors
+* Two elected from the set of TUF contributors
+* Two maintainers from the set of subproject maintainers.
 * The Consensus Builder
+
+About voting:
+* All TUF Contributors are allowed to vote in each election.  The Consensus
+  Builder will have final decision on what constitutes a contribution for
+  the purposes of voting rights.
+* The elections for each group of positions will be held separately in a
+  non-consecutive manner.
+* With the exception of the consensus builder (who is omitted from this
+  calculation), it is not permitted to have more than one steering committee
+  member from the same subproject or organization.
+
 
 ## Steering Committee Duties
 
@@ -64,6 +89,7 @@ The Steering Committee is responsible for the following tasks, any of which may
 be delegated to a person or group selected by the committee:
 
 * Reviewing and deciding on new subprojects to add to The Update Framework
+* Granting affiliate subproject status to an external project
 * Arbitrating inter-subproject disagreements
 * Selecting the Code of Conduct Committee and ratifying CoC judgements
 * Removing subprojects which have become inactive
@@ -78,34 +104,25 @@ be delegated to a person or group selected by the committee:
 In performance of these duties, the Steering Committee will hold a quarterly
 meeting that is open to all contributors. The Committee may hold additional,
 closed meetings in order to discuss non-public issues such as security exploits,
-CoC enforcement, and legal questions.
+CoC enforcement, and legal questions.  However, as a rule, meetings will be held
+in public when practical.
 
 Steering Committee members are expected to advocate for all of The Update
 Framework, not just certain subprojects or corporate sponsors, comply with and
 support the Code of Conduct, and be professional and compassionate in all of
 their dealings with project participants.
 
-## Code of Conduct Committee
+## Code of Conduct Violations
 
-In order to review and enforce the Code of Conduct, the Steering Committee
-selects 3 people to be on the Code of Conduct Committee.
+Code of conduct issues discovered by the community should be reported to the CNCF
+code of conduct committee.
 
-These individuals will be chosen based on their community management and code of
-conduct experience, with diverse representation across the committee, including
-employer, gender, race, background, and region of the world. To avoid fatigue,
-the Steering Committee will replace at least 1 member of the CoC Committee each
-year. Members of the committee do not need to be members of The Update Framework
-if they have sufficient other expertise.
-
-The CoC Committee will receive reports of conduct violations confidentially, and
-will discuss them in closed meetings. If a report is determined to be a
-violation, they will recommend action on it appropriate to the scale, nature,
-and context of the violation, from requiring an apology, up to expulsion of an
-individual from the project. In the event that a contributor is to be demoted or
-expelled, the CoC Committee will forward this recommendation to the Steering
-Committee who will ratify it in a closed meeting. Should a member of the
-Steering Committee be the offender or the reporter, this recommendation will
-instead be forwarded to the CNCF staff for final arbitration.
+We welcome the CNCF code of conduct committee to handle code of conduct violations
+in either of the following ways (at their discretion):
+* notify members of the TUF Steering Committee so that we may handle the issue
+  internally
+* handle the issue at the CNCF level and notify the project of the incident and/or
+  resolution, as is appropriate
 
 ## Adding Subprojects
 
@@ -130,9 +147,9 @@ Experimental Subprojects. Such Experimental Subprojects will be considered part
 of The Update Framework, but will be marked as Experimental on the website and
 in code repositories, in order to inform users. Experimental subproject Members
 are considered Members of The Update Framework, but the subproject is not
-entitled to a representative on the Steering Committee. Steering will review
-Experimental Subprojects at least twice per year to determine if they have
-matured to full subproject status.
+entitled to any other subproject rights. The Steering Committee will review
+Experimental Subprojects at least annually per year to determine if they have
+matured to full subproject status or if they should be removed.
 
 ## Removing Subprojects
 
