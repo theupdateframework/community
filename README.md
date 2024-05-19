@@ -6,7 +6,7 @@ A place for discussions and documents related to the TUF community.
 
 Meet the community on the
 [#tuf](https://cloud-native.slack.com/archives/C8NMD3QJ3) channel on
-[CNCF Slack](https://slack.cncf.io/), contact us via [mailing list](https://groups.google.com/g/theupdateframework) and in the monthly community meeting.
+[CNCF Slack](https://slack.cncf.io/), via [mailing list](https://groups.google.com/g/theupdateframework) and in the monthly community meeting.
 
 
 ### Community Meeting
