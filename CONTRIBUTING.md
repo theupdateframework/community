@@ -8,7 +8,7 @@ Details about how project can add themselves to [website](https://theupdateframe
 - add your logo [here](https://github.com/theupdateframework/theupdateframework.io/tree/master/static/img/logos/adoptions) and file name should be in ``<project_logo>_logo.png`` format.
 - add project url and tag [here](https://github.com/theupdateframework/theupdateframework.io/blob/master/data/adoptions.yaml) based on [main](https://github.com/theupdateframework/theupdateframework.io/blob/master/data/adoptions.yaml#L1) or [ongoing](https://github.com/theupdateframework/theupdateframework.io/blob/master/data/adoptions.yaml#L31) adoption.
 
-- tag name should be same as <project_logo> as used in logo png file
+- tag name should be the same as <project_logo> used in the logo png file
 
 - For the image assets, please provide,
   - standalone vector graphics or logomarks.
