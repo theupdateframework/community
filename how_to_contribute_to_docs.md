@@ -32,7 +32,7 @@ weight = <order>
 
 ### **Create Menu without SubMenu options**
 
-When Menu does not contains any Submenu options.
+When the Menu does not contain any Submenu options:
 
 - Use the following format:
 ```toml
