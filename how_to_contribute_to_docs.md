@@ -1,7 +1,7 @@
 # How to Contribute to Docs
 
 ## **Website Documentation Guidelines**
-If you haven't build website locally yet, run following commands inside `theupdateframework` directory (use your [fork](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.github.com/articles/fork-a-repo&ved=2ahUKEwjexbXp6aqGAxXP1zgGHYMfB3AQFnoECAkQAQ&usg=AOvVaw3knkDqfZXHdtlZVtWiPqst) repository)
+If you haven't build website locally yet, run following commands inside `theupdateframework` directory (use your [forked](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.github.com/articles/fork-a-repo&ved=2ahUKEwjexbXp6aqGAxXP1zgGHYMfB3AQFnoECAkQAQ&usg=AOvVaw3knkDqfZXHdtlZVtWiPqst) repository)
 ```
  $ yarn install
  $ hugo server
