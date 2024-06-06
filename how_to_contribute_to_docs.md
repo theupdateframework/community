@@ -18,7 +18,7 @@ The starting step is to add a route to render your Markdown file.
 Navigate to the [config.toml](https://github.com/theupdateframework/theupdateframework.io/blob/master/config.toml) file.
 
 ### **Create Menu with Submenu options**
-When Menu contains SubMenu options
+When the Menu contains SubMenu options:
 
 - Use the following format:
 ```toml
