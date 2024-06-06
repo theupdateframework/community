@@ -43,7 +43,7 @@ weight = <order>
 ```
 
 - Place the section at the relevant position according to its weight in [config.toml](https://github.com/theupdateframework/theupdateframework.io/blob/master/config.toml).
-- Restart the Hugo server, to see changes.
+- Restart the Hugo server to see changes.
 
 ### **Add SubMenu options to Parent Menu**
 ___
