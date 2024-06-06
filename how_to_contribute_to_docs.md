@@ -58,7 +58,7 @@ weight = <order>
 ```
 
 - Position the SubMenu at the relevant place according to its weight in [config.toml](https://github.com/theupdateframework/theupdateframework.io/blob/master/config.toml).
-- Restart the Hugo server, to see changes.
+- Restart the Hugo server to see changes.
 
 
 
