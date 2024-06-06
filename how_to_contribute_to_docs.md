@@ -28,7 +28,7 @@ identifier ="<Menu_Identifier>"
 weight = <order>
 ```
 - Place the Menu at the relevent position in [config.toml](https://github.com/theupdateframework/theupdateframework.io/blob/master/config.toml) based on its weight.
-- Restart the Hugo server, to see changes.
+- Restart the Hugo server to see changes.
 
 ### **Create Menu without SubMenu options**
 
