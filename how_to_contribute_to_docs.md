@@ -75,4 +75,4 @@ title: <title>
 else file content can be written according to [Markdown rules](https://www.markdownguide.org/basic-syntax/) and [Hugo Markdown Support](https://www.markdownguide.org/tools/hugo/#hugo-markdown-support). 
 
 ### Need Help?
-If you feel any doubt or issue, Please feel free to [Join us](https://github.com/theupdateframework/community?tab=readme-ov-file#tuf-community)
+If you have any question, please reach out to us [here](https://github.com/theupdateframework/community?tab=readme-ov-file#tuf-community).
