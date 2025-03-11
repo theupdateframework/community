@@ -11,7 +11,7 @@ Meet the community on the
 
 ### Community Meeting
 
-- **Time:** *every fourth Wednesday of the month, at 11am (Eastern Time)*
+- **Time:** *every first Friday of the month, at 10am ET (7am PT)*
 - **Location:** [meet.google.com/jhk-cvuf-icd](https://meet.google.com/jhk-cvuf-icd)
 - **Agenda:** [hackmd.io/jdAk9rmPSpOYUdstbIvbjw](https://hackmd.io/jdAk9rmPSpOYUdstbIvbjw)
 - **Calendar:** [www.cncf.io/calendar](https://www.cncf.io/calendar/) 
