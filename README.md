@@ -11,7 +11,7 @@ Meet the community on the
 
 ### Community Meeting
 
-- **Time:** *every first Wednesday of the month, at 3pm UTC (typically 10 am ET)*
+- **Time:** *every first Friday of the month, 10am ET (7am PT)*
 - **Location:** [Zoom meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/93810832920?password=b3f09489-f959-40d1-89b7-12f10d2ad2cb)
 - **Agenda:** [hackmd.io/jdAk9rmPSpOYUdstbIvbjw](https://hackmd.io/jdAk9rmPSpOYUdstbIvbjw)
 - **Calendar:** [www.cncf.io/calendar](https://www.cncf.io/calendar/) 
